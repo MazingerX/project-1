@@ -23,7 +23,7 @@ hr {
 
 .text-muted {
 	font-weight:300;
-	color: #BCBBBB;
+	color: #bcbbbb;
 	font-size: 180%
 }
 
@@ -37,4 +37,8 @@ hr {
 
 .bottom-margin {
 	margin-bottom: 10%;
+}
+
+a.url-style {
+	color: #000000
 }
