@@ -1,6 +1,6 @@
 body {
-	font-family: 'Lato', sans-serif;
-	font-weight: 100;
+	font-family: "Lato", sans-serif;
+	font-weight: 120;
 	color: #000000;
 	background-color: #858c7f;
 }
@@ -45,6 +45,11 @@ hr {
 	width: auto;
 	height: auto;
 	max-width: none;
+}
+
+p{
+	font-size: 24px;
+	margin-top: 5%;
 }
 
 .feature-title {
