@@ -2,33 +2,49 @@ body {
 	font-family: 'Lato', sans-serif;
 	font-weight: 100;
 	color: #000000;
-	background-color: #858c7f
+	background-color: #858c7f;
 }
 
-.move-logo {
-	margin-top: 3%
+.logo-locat {
+	margin-top: 3%;
 }
+
+.logo-size {
+	width: 150px;
+	height: 120px;
+}
+
+.name {
+	font-size: 350%;
+}
+
 .move-name {
-	margin-top: 1.5%
+	margin-top: 1.5%;
 }
 
 hr {
 	border: 2px solid #707070;
 }
 
-.name {
-	font-size: 350%;
-	font-weight: 30;
+.mainpic-size {
+	width: 940px;
+	height: 520px;
 }
 
 .text-muted {
 	font-weight:300;
 	color: #bcbbbb;
-	font-size: 180%
+	font-size: 180%;
 }
 
-.text-thin {
-	font-weight: 100;
+.text-thick {
+	font-weight: 300;
+}
+
+.scale-pic {
+	width: auto;
+	height: auto;
+	max-width: none;
 }
 
 .feature-title {
@@ -39,6 +55,11 @@ hr {
 	margin-bottom: 10%;
 }
 
+figcaption {
+	font-weight: 400;
+	font-size: 200%;
+}
+
 a.url-style {
-	color: #000000
+	color: #000000;
 }
